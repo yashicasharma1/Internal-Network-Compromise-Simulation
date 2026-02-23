@@ -1,3 +1,14 @@
+## 🔴 Attack Flow
+
+```mermaid
+flowchart TD
+    A[Kali Linux Attacker] --> B[Reconnaissance]
+    B --> C[Enumeration]
+    C --> D[Exploitation]
+    D --> E[Credential Harvesting]
+    E --> F[Privilege Escalation]
+    F --> G[Metasploitable Target]
+
 # Internal Network Compromise Simulation (Red Team Lab)
 
 ## Overview
