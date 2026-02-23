@@ -1,2 +1,63 @@
-# Internal-Network-Compromise-Simulation
-Simulated a real-world internal network attack using Kali Linux and Metasploitable 2 in a controlled virtual lab environment. Performed host discovery, stealth port scanning, service enumeration, vulnerability analysis, exploitation of a backdoored FTP service and post-exploitation activities including privilege escalation and log analysis
+# Internal Network Compromise Simulation (Red Team Lab)
+
+## Overview
+This project simulates a real-world internal network attack performed in a controlled lab environment using Kali Linux and Metasploitable.
+
+The objective was to demonstrate the full red team lifecycle:
+Reconnaissance → Enumeration → Exploitation → Post-Exploitation 
+
+---
+
+## Lab Setup
+- Attacker: Kali Linux
+- Target: Metasploitable 2
+- Environment: Virtual lab
+- Network: Internal simulated network
+
+---
+
+## Attack Phases
+
+### 1. Reconnaissance
+- Host discovery
+- Network scanning
+- Port scanning
+
+### 2. Enumeration
+- FTP enumeration
+- SSH enumeration
+- Web service discovery
+
+### 3. Exploitation
+- Vulnerability exploitation
+- Reverse shell access
+
+### 4. Post Exploitation
+- Credential harvesting
+- Privilege escalation
+- Persistence
+
+---
+
+## Tools Used
+- Nmap
+- Netcat
+- Metasploit
+- Hydra
+- Wireshark
+
+
+---
+
+## Skills Demonstrated
+- Network reconnaissance
+- Service enumeration
+- Exploitation techniques
+- Credential harvesting
+- Privilege escalation
+- Red team workflow
+
+---
+
+## Disclaimer
+This project was conducted in a controlled lab environment for learning and ethical cybersecurity purposes only.
