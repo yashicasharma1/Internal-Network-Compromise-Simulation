@@ -1,3 +1,4 @@
+![Project Banner](banner.png)
 # 🔴 Internal Network Compromise Simulation
 
 ![Red Team](https://img.shields.io/badge/Type-Red%20Team%20Lab-red)
