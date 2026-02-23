@@ -18,6 +18,38 @@ flowchart TD
 ![Port Scan 1](02-reconnaissance/port_scan_1.png)
 ![Port Scan 2](02-reconnaissance/port_scan_2.png)
 
+## 🧠 Enumeration
+
+### 📂 FTP Enumeration
+- Banner Grabbing
+- Version Identification
+
+![FTP Banner](03-enumeration/ftp_enum/banner_grabbing.png)
+![FTP Version](03-enumeration/ftp_enum/version_identification.png)
+
+---
+### 🔑 SSH Enumeration
+- Service detection
+- User validation attempts
+
+![SSH Scan 1](03-enumeration/ssh_enum/Ubuntu-2026-02-21-14-49-34.png)
+![SSH Scan 2](03-enumeration/ssh_enum/Ubuntu-2026-02-21-14-56-47.png)
+![SSH Scan 3](03-enumeration/ssh_enum/Ubuntu-2026-02-21-14-59-05.png)
+![SSH Scan 4](03-enumeration/ssh_enum/Ubuntu-2026-02-21-15-00-48.png)
+![SSH Scan 5](03-enumeration/ssh_enum/Ubuntu-2026-02-21-15-12-41.png)
+
+### 🌐 Web Enumeration
+- Directory discovery
+- Service probing
+- Web application mapping
+
+![Web Enum 1](03-enumeration/web_enum/Ubuntu-2026-02-20-19-53-06.png)
+![Web Enum 2](03-enumeration/web_enum/Ubuntu-2026-02-20-19-55-41.png)
+![Web Enum 3](03-enumeration/web_enum/Ubuntu-2026-02-20-19-56-57.png)
+![Web Enum 4](03-enumeration/web_enum/Ubuntu-2026-02-20-19-58-58.png)
+![Web Enum 5](03-enumeration/web_enum/Ubuntu-2026-02-20-20-01-22.png)
+![Web Enum 6](03-enumeration/web_enum/Ubuntu-2026-02-20-20-02-58.png)
+![Web Enum 7](03-enumeration/web_enum/Ubuntu-2026-02-20-20-07-05.png)
 # Internal Network Compromise Simulation (Red Team Lab)
 
 ## Overview
