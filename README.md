@@ -9,6 +9,14 @@ flowchart TD
     E --> F[Privilege Escalation]
     F --> G[Metasploitable Target]
 ```
+## 🔍 Reconnaissance
+
+### 🖥 Host Discovery
+![Host Discovery](02-reconnaissance/host_discovery.png)
+
+### 🚪 Port Scanning
+![Port Scan 1](02-reconnaissance/port_scan_1.png)
+![Port Scan 2](02-reconnaissance/port_scan_2.png)
 
 # Internal Network Compromise Simulation (Red Team Lab)
 
