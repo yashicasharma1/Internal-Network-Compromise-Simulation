@@ -4,7 +4,68 @@
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-black)
 ![Target](https://img.shields.io/badge/Target-Metasploitable-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+# Internal Network Compromise Simulation (Red Team Lab)
 
+## Overview
+This project simulates a real-world internal network attack performed in a controlled lab environment using Kali Linux and Metasploitable.
+
+The objective was to demonstrate the full red team lifecycle:
+Reconnaissance → Enumeration → Exploitation → Post-Exploitation 
+
+---
+
+## Lab Setup
+- Attacker: Kali Linux
+- Target: Metasploitable 2
+- Environment: Virtual lab
+- Network: Internal simulated network
+
+---
+
+## Attack Phases
+
+### 1. Reconnaissance
+- Host discovery
+- Network scanning
+- Port scanning
+
+### 2. Enumeration
+- FTP enumeration
+- SSH enumeration
+- Web service discovery
+
+### 3. Exploitation
+- Vulnerability exploitation
+- Reverse shell access
+
+### 4. Post Exploitation
+- Credential harvesting
+- Privilege escalation
+- Persistence
+
+---
+
+## Tools Used
+- Nmap
+- Netcat
+- Metasploit
+- Hydra
+- Wireshark
+
+
+---
+
+## Skills Demonstrated
+- Network reconnaissance
+- Service enumeration
+- Exploitation techniques
+- Credential harvesting
+- Privilege escalation
+- Red team workflow
+
+---
+
+## Disclaimer
 
 ## 🔴 Attack Flow
 
@@ -78,66 +139,3 @@ flowchart TD
 ![Post Exploit 4](05-post-exploitation/Ubuntu-2026-02-21-16-49-09.png)
 ![Post Exploit 5](05-post-exploitation/Ubuntu-2026-02-21-17-03-43.png)
 
-# Internal Network Compromise Simulation (Red Team Lab)
-
-## Overview
-This project simulates a real-world internal network attack performed in a controlled lab environment using Kali Linux and Metasploitable.
-
-The objective was to demonstrate the full red team lifecycle:
-Reconnaissance → Enumeration → Exploitation → Post-Exploitation 
-
----
-
-## Lab Setup
-- Attacker: Kali Linux
-- Target: Metasploitable 2
-- Environment: Virtual lab
-- Network: Internal simulated network
-
----
-
-## Attack Phases
-
-### 1. Reconnaissance
-- Host discovery
-- Network scanning
-- Port scanning
-
-### 2. Enumeration
-- FTP enumeration
-- SSH enumeration
-- Web service discovery
-
-### 3. Exploitation
-- Vulnerability exploitation
-- Reverse shell access
-
-### 4. Post Exploitation
-- Credential harvesting
-- Privilege escalation
-- Persistence
-
----
-
-## Tools Used
-- Nmap
-- Netcat
-- Metasploit
-- Hydra
-- Wireshark
-
-
----
-
-## Skills Demonstrated
-- Network reconnaissance
-- Service enumeration
-- Exploitation techniques
-- Credential harvesting
-- Privilege escalation
-- Red team workflow
-
----
-
-## Disclaimer
-This project was conducted in a controlled lab environment for learning and ethical cybersecurity purposes only.
