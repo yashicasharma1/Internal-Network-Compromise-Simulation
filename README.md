@@ -50,6 +50,14 @@ flowchart TD
 ![Web Enum 5](03-enumeration/web_enum/Ubuntu-2026-02-20-20-01-22.png)
 ![Web Enum 6](03-enumeration/web_enum/Ubuntu-2026-02-20-20-02-58.png)
 ![Web Enum 7](03-enumeration/web_enum/Ubuntu-2026-02-20-20-07-05.png)
+
+## 💣 Exploitation
+
+- Vulnerability exploitation performed on target services
+
+![Exploitation](04-exploitation/exploitation.png)
+
+
 # Internal Network Compromise Simulation (Red Team Lab)
 
 ## Overview
