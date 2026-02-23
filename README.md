@@ -57,6 +57,18 @@ flowchart TD
 
 ![Exploitation](04-exploitation/exploitation.png)
 
+## 🔐 Post Exploitation
+
+- Credential harvesting performed
+- Privilege escalation achieved
+- Sensitive data access obtained
+- Persistence techniques demonstrated
+
+![Post Exploit 1](05-post-exploitation/Ubuntu-2026-02-21-16-28-34.png)
+![Post Exploit 2](05-post-exploitation/Ubuntu-2026-02-21-16-31-19.png)
+![Post Exploit 3](05-post-exploitation/Ubuntu-2026-02-21-16-39-33.png)
+![Post Exploit 4](05-post-exploitation/Ubuntu-2026-02-21-16-49-09.png)
+![Post Exploit 5](05-post-exploitation/Ubuntu-2026-02-21-17-03-43.png)
 
 # Internal Network Compromise Simulation (Red Team Lab)
 
