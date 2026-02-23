@@ -1,3 +1,11 @@
+# 🔴 Internal Network Compromise Simulation
+
+![Red Team](https://img.shields.io/badge/Type-Red%20Team%20Lab-red)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-black)
+![Target](https://img.shields.io/badge/Target-Metasploitable-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ## 🔴 Attack Flow
 
 ```mermaid
